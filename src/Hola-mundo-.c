@@ -3,7 +3,7 @@
  Name        : Hola-mundo-.c
  Author      : Martin Unold
  Version     :
- Copyright   : Your copyright notice
+ 
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
